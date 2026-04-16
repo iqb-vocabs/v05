@@ -1,7 +1,7 @@
 {
   "name": "v05",
   "version": "0.1.0",
-  "description": "Textkategorie",
+  "description": "Tags",
   "main": "index.js",
   "scripts": {
     "run_id": "addidcsv csv",

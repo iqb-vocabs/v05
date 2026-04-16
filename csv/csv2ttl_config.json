@@ -1,9 +1,9 @@
 {
-    "id": "Textkat",
+    "id": "iqbTags",
     "title": [
       {
         "lang": "de",
-        "value": "Textkategorie"
+        "value": "Tags"
       }
     ],
     "csv_delimiter": ",",

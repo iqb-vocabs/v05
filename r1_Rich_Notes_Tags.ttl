@@ -9,14 +9,14 @@ n0:d6r
 	skos:notation "1.1";
 	skos:broader n0:t5q;
 	skos:prefLabel "original"@de; 
-	skos:definition "Transript der Originalquelle"@de.
+	skos:definition "Transkript der Originalquelle"@de.
 n0:r3h
 	a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "1.2";
 	skos:broader n0:t5q;
 	skos:prefLabel "adapted"@de; 
-	skos:definition "Transript der angepassten Version für die Aufgabe"@de.
+	skos:definition "Transkript der angepassten Version für die Aufgabe"@de.
 n0:t5q
 	a skos:Concept;
 	skos:inScheme n0:;
@@ -68,7 +68,7 @@ n0:h9g
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
-	dct:title "Textkategorie - Rich Notes Tags"@de;
+	dct:title "Tags - Rich Notes Tags"@de;
 	dct:description """Kategorien für formatierte Texte als Teil der Unit-Daten"""@de;
 	dct:license <https://creativecommons.org/publicdomain/zero/1.0/deed.de>;
 	skos:hasTopConcept
