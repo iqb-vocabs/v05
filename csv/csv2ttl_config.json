@@ -1,0 +1,32 @@
+{
+    "id": "Textkat",
+    "title": [
+      {
+        "lang": "de",
+        "value": "Textkategorie"
+      }
+    ],
+    "csv_delimiter": ",",
+    "base": "https://w3id.org/iqb/v05",
+    "outDir": "./",
+    "creator": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
+    "vocabularies": [
+      {
+        "id": "r1",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Rich Notes Tags"
+          }
+        ],
+        "filenameSource": "r1_Rich_Notes_Tags.csv",
+        "filenameTarget": "r1_Rich_Notes_Tags.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": "\"\"Kategorien für formatierte Texte als Teil der Unit-Daten\"\""
+          }
+        ]
+      }
+    ]
+  }
