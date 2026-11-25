@@ -4,6 +4,10 @@
       {
         "lang": "de",
         "value": "Tags"
+      },
+      {
+        "lang": "en",
+        "value": "Tags"
       }
     ],
     "csv_delimiter": ",",
@@ -17,6 +21,10 @@
           {
             "lang": "de",
             "value": "Rich Notes Tags"
+          },
+          {
+            "lang": "en",
+            "value": "Categories for supplementary material"
           }
         ],
         "filenameSource": "r1_Rich_Notes_Tags.csv",
@@ -25,6 +33,10 @@
           {
             "lang": "de",
             "value": "\"\"Kategorien für formatierte Texte als Teil der Unit-Daten\"\""
+          },
+          {
+            "lang": "en",
+            "value": "\"\"Categories for formatted texts as part of the unit data\"\""
           }
         ]
       }
